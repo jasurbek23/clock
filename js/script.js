@@ -79,7 +79,7 @@ const stopHour = document.querySelector(".stopwatch__hours"),
         }
         setTimeout(() => {
             clocks()
-        }, 1);
+        }, 600);
       }
       clocks()
       
